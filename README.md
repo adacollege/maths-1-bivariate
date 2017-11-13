@@ -1,8 +1,10 @@
-# maths-as-bivariate
+# Bivariate data
 Use pandas to explore bivariate data
 
 * Blackbirds
 
+|Age|Sex|Wing|Weight|Year|
+|---|---|---|---|---|
 
 * Anthropometric data
 
