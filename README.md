@@ -1,5 +1,5 @@
 # Bivariate data
-Use pandas to explore bivariate data
+Use pandas to explore multivariate data.
 
 * Blackbirds
 
