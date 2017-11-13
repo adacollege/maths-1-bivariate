@@ -12,6 +12,7 @@ Use pandas to explore bivariate data
 |---|---|---|---|---|---|---|---|---|---|---|---|
 
 * Mammals
+
 |Name|BodyMass_kg|BrainMass_g|Sleep_h|MaxLifeSpan_y|GestationTime_d|OverallDangerIndex|Category|
 |---|---|---|---|---|---|---|---|
 
